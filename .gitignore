@@ -1,2 +1,14 @@
-dataset/
+# Jupyter Notebook files
 .ipynb_checkpoints/
+
+# Dataset files (adjust as necessary)
+dataset/**/*.jpg
+dataset/**/*.jpeg
+dataset/**/*.png
+dataset/**/*.bmp
+dataset/**/*.gif
+dataset/**/*.tif
+dataset/**/*.tiff
+
+# Ignore everything in dataset_splitted
+dataset_splitted/
