@@ -10,7 +10,7 @@ MODELS = {
     'inception_v3': (InceptionV3, inception_v3_preprocess_input)
 }
 
-# Define minimum input sizes for each model
+# Define input sizes for each model
 INPUT_SIZES = {
     'mobilenet_v2': [32, 64, 128, 256],
     'resnet50_v2': [32, 64, 128, 256],
