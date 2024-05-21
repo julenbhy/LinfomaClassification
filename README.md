@@ -8,7 +8,7 @@ This repository contains scripts to train and evaluate Convolutional Neural Netw
 
   Copy your datased to `dataeset\`. Structure should follow:
 
-     dataser
+     dataset
       ├── ...
       ├── class1  
       │   ├── img1.png
@@ -31,6 +31,6 @@ Other parameters such as paths or training parameters can be configured in the f
 Run `MultiModelTrainer.ipynb`
 
 ## Results
-The final results with the values obtained for all models and resolutions will be stored in `logs/test_results.py`. 
+The final results with the values obtained for all models and resolutions will be stored in [`logs/test_results.py`](https://github.com/julenbhy/LinfomaClassification/blob/main/logs/test_results.csv). 
 
 Multiple comparative graphs of these values will also be generated in the `plots/` directory.
