@@ -34,3 +34,18 @@ Run `MultiModelTrainer.ipynb`
 The final results with the values obtained for all models and resolutions will be stored in [`logs/test_results.py`](https://github.com/julenbhy/LinfomaClassification/blob/main/logs/test_results.csv). 
 
 Multiple comparative graphs of these values will also be generated in the `plots/` directory.
+
+Results:
+
+<img width="1000" alt="portfolio_view" src="https://github.com/julenbhy/LinfomaClassification/blob/main/plots/comparison_loss.png"> 
+
+<img width="1000" alt="portfolio_view" src="https://github.com/julenbhy/LinfomaClassification/blob/main/plots/comparison_accuracy.png"> 
+
+<img width="1000" alt="portfolio_view" src="https://github.com/julenbhy/LinfomaClassification/blob/main/plots/comparison_precision.png"> 
+
+<img width="1000" alt="portfolio_view" src="https://github.com/julenbhy/LinfomaClassification/blob/main/plots/comparison_recall.png"> 
+
+<img width="1000" alt="portfolio_view" src="https://github.com/julenbhy/LinfomaClassification/blob/main/plots/comparison_loss.png"> 
+
+<img width="1000" alt="portfolio_view" src="https://github.com/julenbhy/LinfomaClassification/blob/main/plots/comparison_test_time.png"> 
+
